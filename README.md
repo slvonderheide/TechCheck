@@ -20,7 +20,7 @@ This project is a fully functioning Tech Quiz application built using the MERN s
 5. To run the tests with Cypress. 
 
 ## Usage
-
+Start the application:npm run start. Follow the prompts. 
 
 ## Contributing
 We welcome contributions! Please follow these steps: 1. Fork the repository. 2. Create a new branch: git checkout -b feature-name. 3. Make your changes and commit them. 4. Push the changes: git push origin feature-name. 5. Submit a pull request.
